@@ -2,7 +2,7 @@
 Java Hello World example.
 */
  
-public class HelloWorldExample{
+public class Hello{
  
   public static void main(String args[]){
  
